@@ -1,2 +1,2 @@
-# Soorgle
-Soorgle AI
+# Soorgla
+Soorgla AI
